@@ -1,4 +1,4 @@
-<title>Monitor-System-Resources-Using-Netdata</title> 
+##Monitor-System-Resources-Using-Netdata
 
 <h1>📌 Objective</h1>
 <p>Deploy **Netdata** on an **AWS EC2 instance** using **Docker** to visualize system metrics like **CPU**, **memory**, **disk**, and **Docker containers** performance.</p>
